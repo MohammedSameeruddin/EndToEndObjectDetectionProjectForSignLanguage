@@ -16,3 +16,7 @@ conda activate signLangEnv
 conda activate signLangEnv
 ```
 
+```bash
+pip install -r requirements.txt
+```
+
